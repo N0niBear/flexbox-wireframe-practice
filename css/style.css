@@ -19,6 +19,7 @@ header {
 main {
     background-color: mediumseagreen;
     display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: space-evenly;
     padding: .5rem;
